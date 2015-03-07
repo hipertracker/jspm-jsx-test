@@ -5,12 +5,13 @@
     <title>Test</title>
 </head>
 <body>
-<div id="app"></div>
+LOADING...
 </body>
+<script src="jspm_packages/babel-polyfill.js"></script>
 <script src="jspm_packages/system.js"></script>
 <script src="config.js"></script>
 <script>
-//    System.babelOptions = {experimental: true, blacklist: []};
+    System.babelOptions = {experimental: true, playground: true};
     System.import('main');
 </script>
 </html>

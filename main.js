@@ -1,4 +1,9 @@
 import React from 'react'
 import App from './components/App'
 
-React.render(React.createElement(App), document.getElementById('app'));
+// works with babel-polyfill.js
+function* foo() {
+    yield 1;
+}
+
+React.render(React.createElement(App), document.body);
