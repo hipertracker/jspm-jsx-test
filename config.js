@@ -10,7 +10,7 @@ System.config({
 
 System.config({
   "map": {
-    "react": "npm:react@0.12.2",
+    "react": "npm:react@0.13.0-rc2",
     "github:jspm/nodelibs-buffer@0.1.0": {
       "buffer": "npm:buffer@3.0.3"
     },
@@ -69,7 +69,7 @@ System.config({
     "npm:path-browserify@0.0.0": {
       "process": "github:jspm/nodelibs-process@0.1.1"
     },
-    "npm:react@0.12.2": {
+    "npm:react@0.13.0-rc2": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.0",
       "envify": "npm:envify@3.3.0",
       "process": "github:jspm/nodelibs-process@0.1.1"

@@ -5,7 +5,7 @@
       "packages": "jspm_packages"
     },
     "dependencies": {
-      "react": "npm:react@^0.12.2"
+      "react": "npm:react@0.13.0-rc2"
     }
   }
 }
