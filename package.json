@@ -5,6 +5,7 @@
       "packages": "jspm_packages"
     },
     "dependencies": {
+      "jsx": "github:floatdrop/plugin-jsx@^1.0.1",
       "react": "npm:react@0.13.0-rc2"
     }
   }
