@@ -2,8 +2,14 @@ import React from 'react/addons';
 
 class App extends React.Component {
     render() {
-        return <div>Hello React 0.13.0-rc2</div>;
+        return (
+            <div>
+                Hello <b>React</b>
+                &nbsp;
+                <a href="//facebook.github.io/react/blog/2015/03/03/react-v0.13-rc2.html">v0.13-rc2</a>
+            </div>);
     }
-};
+}
+;
 
 export default App;
