@@ -1,4 +1,4 @@
-# jspm-jsx-issue
+# jspm-jsx-test
 
 ## Install
 
