@@ -5,7 +5,8 @@ System.config({
     "optional": [
       "runtime"
     ],
-    stage: 1
+    stage: 1,
+    blacklist: []
   },
   "paths": {
     "*": "*.js",
