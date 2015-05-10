@@ -4,7 +4,8 @@ System.config({
   "babelOptions": {
     "optional": [
       "runtime"
-    ]
+    ],
+    stage: 1
   },
   "paths": {
     "*": "*.js",

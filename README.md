@@ -10,5 +10,5 @@ jspm install
 
 ## Bundled for production
 ```
-jspm bundle-sfx src/main dist/bundle.js --minify --skip-source-maps
+jspm bundle-sfx src/startup dist/bundle.js --minify --skip-source-maps
 ```

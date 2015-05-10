@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react/addons'
 import App from './components/App.jsx!'
 
 // works with babel-polyfill.js
